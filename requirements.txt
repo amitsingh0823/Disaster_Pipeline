@@ -5,5 +5,4 @@ plotly
 nltk
 flask
 sqlalchemy
-json
 pickle
